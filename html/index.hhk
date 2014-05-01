@@ -1,0 +1,722 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html"><param name="Name" value="1. WIZnet socket APIs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html"><param name="Name" value="2. WIZnet Extra Functions"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html"><param name="Name" value="__WIZCHIP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_r_i_s.html"><param name="Name" value="__WIZCHIP::_CRIS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_r_i_s.html#a4b960e85f7703705795f4965252c8fb7"><param name="Name" value="_enter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_r_i_s.html#af41262773a26ab77f20c2559830e6fbb"><param name="Name" value="_exit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_s.html"><param name="Name" value="__WIZCHIP::_CS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_s.html#a494f6cb7ff8cf3b229804ed7299faee1"><param name="Name" value="_deselect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_s.html#a5e55ee4b2d0fb49a7b4eaed60e9cae5c"><param name="Name" value="_select"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="union_____w_i_z_c_h_i_p_1_1___i_f.html"><param name="Name" value="__WIZCHIP::_IF"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="union_____w_i_z_c_h_i_p_1_1___i_f.html#a39981ec4acc9cac30fba3c89440b34b6"><param name="Name" value="BUS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="union_____w_i_z_c_h_i_p_1_1___i_f.html#a50d58c63f70671976672aa3051e36758"><param name="Name" value="SPI"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html"><param name="Name" value="__WIZCHIP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#ae94e8a795064229659a267844aff02a6"><param name="Name" value="CRIS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#a402f9b854611a764645391a1c83d1e5c"><param name="Name" value="CS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#afd3fb2202be6b98ba76750dbca407d6d"><param name="Name" value="id"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#a291506b4dba5a525c3fb088809909dfe"><param name="Name" value="IF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#a32fec318d5bfa58b3ebd8493959a1b31"><param name="Name" value="if_mode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_s.html#a494f6cb7ff8cf3b229804ed7299faee1"><param name="Name" value="_deselect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_r_i_s.html#a4b960e85f7703705795f4965252c8fb7"><param name="Name" value="_enter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_r_i_s.html#af41262773a26ab77f20c2559830e6fbb"><param name="Name" value="_exit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p_1_1___c_s.html#a5e55ee4b2d0fb49a7b4eaed60e9cae5c"><param name="Name" value="_select"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gac69f15a66bab10650b3834c758643066"><param name="Name" value="_WIZCHIP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gac69f15a66bab10650b3834c758643066"><param name="Name" value="DATA_TYPE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gac69f15a66bab10650b3834c758643066"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a716142232d6577dcb49c4a3f27c89fdd"><param name="Name" value="_WIZCHIP_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a205bfecb2fd9a65b896384de0e957e4b"><param name="Name" value="_WIZCHIP_ID_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a96368b8e55bcca9d9b15b8b695331443"><param name="Name" value="_WIZCHIP_IO_BASE_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a564c20a8415e89b641b600bf4542e94c"><param name="Name" value="_WIZCHIP_IO_MODE_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ab278798369281104991526236f5e1a40"><param name="Name" value="_WIZCHIP_IO_MODE_BUS_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a640a909820498d82446aa1dc7f4307eb"><param name="Name" value="_WIZCHIP_IO_MODE_BUS_DIR_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a1acac79a10d2550d4387bd9506f8843f"><param name="Name" value="_WIZCHIP_IO_MODE_BUS_INDIR_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a92092941e58af1e46aeca604a1d52017"><param name="Name" value="_WIZCHIP_IO_MODE_NONE_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a6179151fb8739a740799328f4f2beaa8"><param name="Name" value="_WIZCHIP_IO_MODE_SPI_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a85505e996758563e203995e79522b035"><param name="Name" value="_WIZCHIP_IO_MODE_SPI_FDM_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a87fae122f24f057f386f1e12b9a91eab"><param name="Name" value="_WIZCHIP_IO_MODE_SPI_VDM_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a70a4c5d01d3afb9fab3b6070ac27c857"><param name="Name" value="_WIZCHIP_SOCK_NUM_"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="union_____w_i_z_c_h_i_p_1_1___i_f.html#a39981ec4acc9cac30fba3c89440b34b6"><param name="Name" value="BUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html#a59b0be57ff79e69bd30dcbbfd9fceacf"><param name="Name" value="by"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#a4de733d12d951cb93d5ec3adb9fe92a2"><param name="Name" value="CHECK_SOCKDATA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#a89d4949e11620ee89de6ea32497bc0a5"><param name="Name" value="CHECK_SOCKINIT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#aef140525633e96efc06dc2b03f71f5fa"><param name="Name" value="CHECK_SOCKMODE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#afe447840d18ed02ec5ca66e3e197b749"><param name="Name" value="CHECK_SOCKNUM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7c8a46c623edfab31d9e09788394b2f"><param name="Name" value="close"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7c8a46c623edfab31d9e09788394b2f"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7c8a46c623edfab31d9e09788394b2f"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7c8a46c623edfab31d9e09788394b2f"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8a7dbd12469e7535228b5a2d549201cda1"><param name="Name" value="CN_GET_NETINFO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8a08e3615f49fe78b3efeed4de1d218965"><param name="Name" value="CN_GET_NETMODE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8a97ba1a36076ec029551c1307ace1ca8a"><param name="Name" value="CN_GET_TIMEOUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8aa0da954a5b2c47ffee3bed4a6c24328a"><param name="Name" value="CN_SET_NETINFO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8a4fcef35449d832255f57ebf515b7e56a"><param name="Name" value="CN_SET_NETMODE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8af36fb2c237824056344abfb7f06165e4"><param name="Name" value="CN_SET_TIMEOUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7ab832f4201ef0f04eefcac063b998e"><param name="Name" value="connect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7ab832f4201ef0f04eefcac063b998e"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7ab832f4201ef0f04eefcac063b998e"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7ab832f4201ef0f04eefcac063b998e"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#ae94e8a795064229659a267844aff02a6"><param name="Name" value="CRIS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#a402f9b854611a764645391a1c83d1e5c"><param name="Name" value="CS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6aef32fa8c2e9399355ed769ec77729f8e"><param name="Name" value="CS_CLR_INTERRUPT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6a7e9faa71bdd2cf508fbf5cc9f7e83ccc"><param name="Name" value="CS_GET_INTERRUPT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6abdad4e84a9a5a8084e9662d4d8587f18"><param name="Name" value="CS_GET_INTMASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6af7caa802f7e7242ca70ce5640a9b8e85"><param name="Name" value="CS_GET_IOMODE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6abb1c8779447ef09aa57c88c71186ca1e"><param name="Name" value="CS_GET_MAXRXBUF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6a9f3ee6f21891b62bdf724135151e9e59"><param name="Name" value="CS_GET_MAXTXBUF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6a2ad38020bf3c84479f0e5552929747be"><param name="Name" value="CS_SET_INTMASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6ab3ec317b2f9cb2df881dedd576500f2f"><param name="Name" value="CS_SET_IOMODE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga315235b3215e09b1230f4fae093a26b3"><param name="Name" value="ctlnetwork"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga315235b3215e09b1230f4fae093a26b3"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga315235b3215e09b1230f4fae093a26b3"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga315235b3215e09b1230f4fae093a26b3"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae2f94d7d4ce040f6bf68779e064d224e"><param name="Name" value="ctlsocket"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae2f94d7d4ce040f6bf68779e064d224e"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae2f94d7d4ce040f6bf68779e064d224e"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae2f94d7d4ce040f6bf68779e064d224e"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0ff8fc15549599a1d08dc5ec378779d9"><param name="Name" value="ctlwizchip"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0ff8fc15549599a1d08dc5ec378779d9"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0ff8fc15549599a1d08dc5ec378779d9"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0ff8fc15549599a1d08dc5ec378779d9"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a3b90ceaac37ec1636979219c316c1b45"><param name="Name" value="CW_CLR_INTERRUPT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a3e9b9f42781403e72f58e31730ba9368"><param name="Name" value="CW_GET_ID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a007ca9d990edd2b22d4f3514d2413b6d"><param name="Name" value="CW_GET_INTERRUPT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44abf692c901c5d846b71f177e72e0ac19b"><param name="Name" value="CW_GET_INTRMASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a1c5fe1039a8a0638b5c099b37c0d6b3b"><param name="Name" value="CW_GET_INTRTIME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a90dbc0ba1567d6f67450c38136b928d1"><param name="Name" value="CW_GET_PHYCONF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a1b3c2da3b49ab6072c69455877e0a6e1"><param name="Name" value="CW_GET_PHYLINK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44af2c60665ebee5c5e3b5c7088e671d256"><param name="Name" value="CW_GET_PHYPOWMODE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a73cae02488658f1fc27ccd322c391f02"><param name="Name" value="CW_GET_PHYSTATUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a1f6e10c920debcccf93c41af570150df"><param name="Name" value="CW_INIT_WIZCHIP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a6b28d9b2eb1f82b6fc1c9b0e58c2d99f"><param name="Name" value="CW_RESET_PHY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a658f1f4cff4a15ea70b4104599d7d928"><param name="Name" value="CW_RESET_WIZCHIP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a8f81b377b722b8b23150b1a3a042b15f"><param name="Name" value="CW_SET_INTRMASK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a49966d90dff60c38ab6e76654f9ac59f"><param name="Name" value="CW_SET_INTRTIME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a2360c312f5437370e65000ad85205a05"><param name="Name" value="CW_SET_PHYCONF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a793ecc600c0be24791af73e3e5b4fdf3"><param name="Name" value="CW_SET_PHYPOWMODE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html"><param name="Name" value="DATA TYPE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html"><param name="Name" value="DATA_TYPE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gac69f15a66bab10650b3834c758643066"><param name="Name" value="_WIZCHIP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8a7dbd12469e7535228b5a2d549201cda1"><param name="Name" value="CN_GET_NETINFO"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8a08e3615f49fe78b3efeed4de1d218965"><param name="Name" value="CN_GET_NETMODE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8a97ba1a36076ec029551c1307ace1ca8a"><param name="Name" value="CN_GET_TIMEOUT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8aa0da954a5b2c47ffee3bed4a6c24328a"><param name="Name" value="CN_SET_NETINFO"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8a4fcef35449d832255f57ebf515b7e56a"><param name="Name" value="CN_SET_NETMODE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggabc27f589bbab92c248e76e7d15eb31e8af36fb2c237824056344abfb7f06165e4"><param name="Name" value="CN_SET_TIMEOUT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6aef32fa8c2e9399355ed769ec77729f8e"><param name="Name" value="CS_CLR_INTERRUPT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6a7e9faa71bdd2cf508fbf5cc9f7e83ccc"><param name="Name" value="CS_GET_INTERRUPT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6abdad4e84a9a5a8084e9662d4d8587f18"><param name="Name" value="CS_GET_INTMASK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6af7caa802f7e7242ca70ce5640a9b8e85"><param name="Name" value="CS_GET_IOMODE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6abb1c8779447ef09aa57c88c71186ca1e"><param name="Name" value="CS_GET_MAXRXBUF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6a9f3ee6f21891b62bdf724135151e9e59"><param name="Name" value="CS_GET_MAXTXBUF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6a2ad38020bf3c84479f0e5552929747be"><param name="Name" value="CS_SET_INTMASK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga3a77339a724cf087b366b8710aa683e6ab3ec317b2f9cb2df881dedd576500f2f"><param name="Name" value="CS_SET_IOMODE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a3b90ceaac37ec1636979219c316c1b45"><param name="Name" value="CW_CLR_INTERRUPT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a3e9b9f42781403e72f58e31730ba9368"><param name="Name" value="CW_GET_ID"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a007ca9d990edd2b22d4f3514d2413b6d"><param name="Name" value="CW_GET_INTERRUPT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44abf692c901c5d846b71f177e72e0ac19b"><param name="Name" value="CW_GET_INTRMASK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a1c5fe1039a8a0638b5c099b37c0d6b3b"><param name="Name" value="CW_GET_INTRTIME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a90dbc0ba1567d6f67450c38136b928d1"><param name="Name" value="CW_GET_PHYCONF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a1b3c2da3b49ab6072c69455877e0a6e1"><param name="Name" value="CW_GET_PHYLINK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44af2c60665ebee5c5e3b5c7088e671d256"><param name="Name" value="CW_GET_PHYPOWMODE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a73cae02488658f1fc27ccd322c391f02"><param name="Name" value="CW_GET_PHYSTATUS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a1f6e10c920debcccf93c41af570150df"><param name="Name" value="CW_INIT_WIZCHIP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a6b28d9b2eb1f82b6fc1c9b0e58c2d99f"><param name="Name" value="CW_RESET_PHY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a658f1f4cff4a15ea70b4104599d7d928"><param name="Name" value="CW_RESET_WIZCHIP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a8f81b377b722b8b23150b1a3a042b15f"><param name="Name" value="CW_SET_INTRMASK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a49966d90dff60c38ab6e76654f9ac59f"><param name="Name" value="CW_SET_INTRTIME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a2360c312f5437370e65000ad85205a05"><param name="Name" value="CW_SET_PHYCONF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaca023f09ee4830a55aa38846e1bb3b44a793ecc600c0be24791af73e3e5b4fdf3"><param name="Name" value="CW_SET_PHYPOWMODE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a8ed2f23205215b8f79823244dec43df4"><param name="Name" value="IK_DEST_UNREACH"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a443c975f7482e7e38fa47e528ff9ae2f"><param name="Name" value="IK_IP_CONFLICT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3ab213bc1ba38c6fe1a21f09ca68bb03ff"><param name="Name" value="IK_PPPOE_TERMINATED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a0df5fcd3ee3790963b189bf121e0ae27"><param name="Name" value="IK_SOCK_0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a0a1bb068ff3ccbe0e44ac6eb816ed37d"><param name="Name" value="IK_SOCK_1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a0774c8e40dd61e667f4189384a8223a9"><param name="Name" value="IK_SOCK_2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a1895584cc2c1436567516390c41959a8"><param name="Name" value="IK_SOCK_3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a357b799cbb058ccb10c47ecb9088d4e6"><param name="Name" value="IK_SOCK_4"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3ac6c749f1d2bb07d2a1bb5743fd7f2015"><param name="Name" value="IK_SOCK_5"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3afeee8b19dfe579551745081b7727a5e2"><param name="Name" value="IK_SOCK_6"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3add2eaa8136ed8c2a4c0bc7ca214d422d"><param name="Name" value="IK_SOCK_7"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a77bc0cc803e53da92b009e4b096ccd61"><param name="Name" value="IK_SOCK_ALL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a0233e6c9719bcac46c402b67a696e139"><param name="Name" value="IK_WOL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga76e5aa4ff40d1cb562e46e3bf9b1e9d1abb4dffed9037e84b54c972da0fd471e2"><param name="Name" value="NETINFO_DHCP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga76e5aa4ff40d1cb562e46e3bf9b1e9d1aeb76552981d146af93acee6aa17dd165"><param name="Name" value="NETINFO_STATIC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga7543c641a8f3ad6dce26f2387e7e8eaca32c5ae489d34cf2de9ff96ae278f028a"><param name="Name" value="NM_FORCEARP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga7543c641a8f3ad6dce26f2387e7e8eaca8e9226206aa8567b284ede0dff7540be"><param name="Name" value="NM_PINGBLOCK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga7543c641a8f3ad6dce26f2387e7e8eaca37ebbd5edda6ee0dccfcd481d4690416"><param name="Name" value="NM_PPPOE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga7543c641a8f3ad6dce26f2387e7e8eaca273098a5481a025f536a599c6a008759"><param name="Name" value="NM_WAKEONLAN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49cab047934b1869746fbc0f144b5a750235"><param name="Name" value="SIK_ALL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca572b5fc4792b828241e3cb59c95d8162"><param name="Name" value="SIK_CONNECTED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca9680dba91346657e5ace550b548e078b"><param name="Name" value="SIK_DISCONNECTED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca083fdc9e4e60122e9430e00cea78ecba"><param name="Name" value="SIK_RECEIVED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca263f2ee924ce301138f6ff041d539bd2"><param name="Name" value="SIK_SENT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca9932f0ef330402b0f60a08073fd5a753"><param name="Name" value="SIK_TIMEOUT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944aedcfb91978540124a81e0302c58bb6d7"><param name="Name" value="SO_DESTIP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a3429f41e7099b4badca2630c7a5e4f1c"><param name="Name" value="SO_DESTPORT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944af21c9fec4a305d9504e0487f7ae7fc26"><param name="Name" value="SO_FLAG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a2bf80fd82c7e9231c427cd62a5d62cf0"><param name="Name" value="SO_KEEPALIVESEND"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944ae7f6aaf2aaef0519a813b3e26ef9c4fd"><param name="Name" value="SO_MSS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944af1a89a6cfe6fce7381f825553de1a905"><param name="Name" value="SO_PACKINFO"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944ab30861739974726fb7a170bbac572c22"><param name="Name" value="SO_RECVBUF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944ac8e0d12b5a8ee43e5ebe37a39b31988a"><param name="Name" value="SO_REMAINSIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a1b0e150a176b12a227d6ab7c294fc05a"><param name="Name" value="SO_SENDBUF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a3f76c1b04cfc969826bed37a3c4cff06"><param name="Name" value="SO_STATUS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944afef2289d3bfeecda602214576b0a42e3"><param name="Name" value="SO_TOS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a69762968a8cae82544deffe1c3ac32cf"><param name="Name" value="SO_TTL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ga2ff9b34f5647319803e5d63f970728c9"><param name="Name" value="wiz_NetInfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ga6a2040213546a67cffd2e9333f59cbc3"><param name="Name" value="wiz_NetTimeout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gac40ecf56c0038249b1431f63a925427b"><param name="Name" value="wiz_PhyConf"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#a763202a23c996695abad319fc6e60dcf"><param name="Name" value="dhcp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0230efb936b222a0cbc7680e2c39c994"><param name="Name" value="disconnect"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0230efb936b222a0cbc7680e2c39c994"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0230efb936b222a0cbc7680e2c39c994"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0230efb936b222a0cbc7680e2c39c994"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#a51a0066964c8a7dcb02e8740858696bb"><param name="Name" value="dns"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html#a42f9d62936cfdf563c3d1c25a0c88cf2"><param name="Name" value="duplex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html"><param name="Name" value="extra_functions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga315235b3215e09b1230f4fae093a26b3"><param name="Name" value="ctlnetwork"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0ff8fc15549599a1d08dc5ec378779d9"><param name="Name" value="ctlwizchip"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga41f91261077bc64e240d506923c29181"><param name="Name" value="wizchip_clrinterrupt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gae5858fe7ca3d498e9fec4c3457a02e2e"><param name="Name" value="wizchip_getinterrupt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga54ab95788a37781b24e2279022a8705b"><param name="Name" value="wizchip_getinterruptmask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga769cf8bbf0e35981777977e37443c766"><param name="Name" value="wizchip_getnetinfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0313b6a7ced290f618912bf9de7791ab"><param name="Name" value="wizchip_getnetmode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga05f7ba1f50d0cb7a7db4207af9182644"><param name="Name" value="wizchip_gettimeout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga1bd1977c0db22c93e1841f8353dd919e"><param name="Name" value="wizchip_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gafb30bdc1c5333b6bb67bdd20399b0f38"><param name="Name" value="wizchip_setinterruptmask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gaf581fa9246e4a5621936c7b83d18a0fa"><param name="Name" value="wizchip_setnetinfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gac4f457e87b5f9db2eccebb790a348e8c"><param name="Name" value="wizchip_setnetmode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga91ca4b3716c77ed5a6a32757c53f7a02"><param name="Name" value="wizchip_settimeout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4033269f88b0e202837c4c56a1d8d437"><param name="Name" value="wizchip_sw_reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4745d0ce5551dd24df8550d4e0602aec"><param name="Name" value="wizphy_getphyconf"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga6ab08d93c02389fe12590ba0c677a965"><param name="Name" value="wizphy_getphystat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga60359c86bf85ccd5ca8f6e7cafc849dc"><param name="Name" value="wizphy_setphyconf"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga64a4fd3427b5c5f43a3f35fb433cb06c"><param name="Name" value="wizphy_setphypmode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga631998ae17cbf099b0071f20c88ce5cf"><param name="Name" value="getsockopt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga631998ae17cbf099b0071f20c88ce5cf"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga631998ae17cbf099b0071f20c88ce5cf"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga631998ae17cbf099b0071f20c88ce5cf"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#a6a78be2d765ba8e6f00ab9570ea6d702"><param name="Name" value="gw"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#afd3fb2202be6b98ba76750dbca407d6d"><param name="Name" value="id"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#a291506b4dba5a525c3fb088809909dfe"><param name="Name" value="IF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_____w_i_z_c_h_i_p.html#a32fec318d5bfa58b3ebd8493959a1b31"><param name="Name" value="if_mode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a8ed2f23205215b8f79823244dec43df4"><param name="Name" value="IK_DEST_UNREACH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a443c975f7482e7e38fa47e528ff9ae2f"><param name="Name" value="IK_IP_CONFLICT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3ab213bc1ba38c6fe1a21f09ca68bb03ff"><param name="Name" value="IK_PPPOE_TERMINATED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a0df5fcd3ee3790963b189bf121e0ae27"><param name="Name" value="IK_SOCK_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a0a1bb068ff3ccbe0e44ac6eb816ed37d"><param name="Name" value="IK_SOCK_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a0774c8e40dd61e667f4189384a8223a9"><param name="Name" value="IK_SOCK_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a1895584cc2c1436567516390c41959a8"><param name="Name" value="IK_SOCK_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a357b799cbb058ccb10c47ecb9088d4e6"><param name="Name" value="IK_SOCK_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3ac6c749f1d2bb07d2a1bb5743fd7f2015"><param name="Name" value="IK_SOCK_5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3afeee8b19dfe579551745081b7727a5e2"><param name="Name" value="IK_SOCK_6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3add2eaa8136ed8c2a4c0bc7ca214d422d"><param name="Name" value="IK_SOCK_7"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a77bc0cc803e53da92b009e4b096ccd61"><param name="Name" value="IK_SOCK_ALL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggac6b85cbd7d245ccf3cbfa734760d6ed3a0233e6c9719bcac46c402b67a696e139"><param name="Name" value="IK_WOL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#acf3c4fdbc1f0701b795c9962c66f6979"><param name="Name" value="ip"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga58ae959798d5d874ac5ea796da90db8c"><param name="Name" value="listen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga58ae959798d5d874ac5ea796da90db8c"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga58ae959798d5d874ac5ea796da90db8c"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga58ae959798d5d874ac5ea796da90db8c"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#ae9c5f0c32486ae54d9a149ad368e1b15"><param name="Name" value="mac"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html#a08fbc557790c3a9ffd15e179d8c1884f"><param name="Name" value="mode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga76e5aa4ff40d1cb562e46e3bf9b1e9d1abb4dffed9037e84b54c972da0fd471e2"><param name="Name" value="NETINFO_DHCP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga76e5aa4ff40d1cb562e46e3bf9b1e9d1aeb76552981d146af93acee6aa17dd165"><param name="Name" value="NETINFO_STATIC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga7543c641a8f3ad6dce26f2387e7e8eaca32c5ae489d34cf2de9ff96ae278f028a"><param name="Name" value="NM_FORCEARP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga7543c641a8f3ad6dce26f2387e7e8eaca8e9226206aa8567b284ede0dff7540be"><param name="Name" value="NM_PINGBLOCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga7543c641a8f3ad6dce26f2387e7e8eaca37ebbd5edda6ee0dccfcd481d4690416"><param name="Name" value="NM_PPPOE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga7543c641a8f3ad6dce26f2387e7e8eaca273098a5481a025f536a599c6a008759"><param name="Name" value="NM_WAKEONLAN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ae06c5dba7f49f92040308a7219f0b891"><param name="Name" value="PACK_COMPLETED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a970d74802b0e51a57d2036ada9f956fd"><param name="Name" value="PACK_FIRST"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ac562b74bdfbd701536d2bd0be62f5280"><param name="Name" value="PACK_REMAINED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a041ee84835137a0e9b44195c59094058"><param name="Name" value="PHY_CONFBY_HW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a2c4dfff024962b4a520a0f64c5b482c7"><param name="Name" value="PHY_CONFBY_SW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a917f75644ef5f928c69d70f66883a4fa"><param name="Name" value="PHY_DUPLEX_FULL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a9e54992dd7df699ba0a6b8846c4bd503"><param name="Name" value="PHY_DUPLEX_HALF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a471064afdaa53206fb0ef209e1c8257e"><param name="Name" value="PHY_LINK_OFF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#acb165f18d53ffaa8c7691312e76e8d43"><param name="Name" value="PHY_LINK_ON"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a0fec3063a62bbbc9ed44004fe8d565ad"><param name="Name" value="PHY_MODE_AUTONEGO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ada95bdaad545f87518e3d60760345eba"><param name="Name" value="PHY_MODE_MANUAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a6a72de7df3c5d48c93dbbac2248d566d"><param name="Name" value="PHY_POWER_DOWN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#aec45fdaf72e12f9b7958c77bb4ff4913"><param name="Name" value="PHY_POWER_NORM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ad5fdd2d68e54573c921a7e790c541d70"><param name="Name" value="PHY_SPEED_100"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ae18a71e8a9558b4cead60cee7a438cf1"><param name="Name" value="PHY_SPEED_10"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga4cfb66f7440a1dd9ac0ee0b933a38c59"><param name="Name" value="recv"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga4cfb66f7440a1dd9ac0ee0b933a38c59"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga4cfb66f7440a1dd9ac0ee0b933a38c59"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga4cfb66f7440a1dd9ac0ee0b933a38c59"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae580bd099f9bcbeca63a3145c0015e62"><param name="Name" value="recvfrom"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae580bd099f9bcbeca63a3145c0015e62"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae580bd099f9bcbeca63a3145c0015e62"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae580bd099f9bcbeca63a3145c0015e62"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ae6ad00c6e026b8bf0d65d1db94f3a8bf"><param name="Name" value="reg_wizchip_bus_cbfunc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ae6ad00c6e026b8bf0d65d1db94f3a8bf"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ae6ad00c6e026b8bf0d65d1db94f3a8bf"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a658e320e9c986ecab81857a8716b8b87"><param name="Name" value="reg_wizchip_cris_cbfunc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a658e320e9c986ecab81857a8716b8b87"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a658e320e9c986ecab81857a8716b8b87"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a63208f3ad63e6290be0ed33705baa27e"><param name="Name" value="reg_wizchip_cs_cbfunc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a63208f3ad63e6290be0ed33705baa27e"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a63208f3ad63e6290be0ed33705baa27e"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ab8b1906597683424d5f599e6fd720386"><param name="Name" value="reg_wizchip_spi_cbfunc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ab8b1906597683424d5f599e6fd720386"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ab8b1906597683424d5f599e6fd720386"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_timeout__t.html#a5d33e21e06eae14bf79488d36097d073"><param name="Name" value="retry_cnt"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gacd77c3cc60e87d09a5714932506d7c4b"><param name="Name" value="send"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gacd77c3cc60e87d09a5714932506d7c4b"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gacd77c3cc60e87d09a5714932506d7c4b"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gacd77c3cc60e87d09a5714932506d7c4b"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga30fc77ba1005733b501994818bde12f8"><param name="Name" value="sendto"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga30fc77ba1005733b501994818bde12f8"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga30fc77ba1005733b501994818bde12f8"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga30fc77ba1005733b501994818bde12f8"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0111e4784e20d97dacd5aaf54cb48ef1"><param name="Name" value="setsockopt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0111e4784e20d97dacd5aaf54cb48ef1"><param name="Name" value="socket.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0111e4784e20d97dacd5aaf54cb48ef1"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0111e4784e20d97dacd5aaf54cb48ef1"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a49117ce7d884321865f4db6b139107c4"><param name="Name" value="SF_ETHER_OWN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#acd337681c4ef4fbf02a4ff4ca493f58a"><param name="Name" value="SF_IGMP_VER2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ae9bc25736822c8937e783714525b5dcd"><param name="Name" value="SF_IO_NONBLOCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a62356ecd96a5545441134262d88c3cc2"><param name="Name" value="SF_MULTI_ENABLE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a73908595a4322a54ab879938f1f9e263"><param name="Name" value="SF_TCP_NODELAY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49cab047934b1869746fbc0f144b5a750235"><param name="Name" value="SIK_ALL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca572b5fc4792b828241e3cb59c95d8162"><param name="Name" value="SIK_CONNECTED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca9680dba91346657e5ace550b548e078b"><param name="Name" value="SIK_DISCONNECTED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca083fdc9e4e60122e9430e00cea78ecba"><param name="Name" value="SIK_RECEIVED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca263f2ee924ce301138f6ff041d539bd2"><param name="Name" value="SIK_SENT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ggaa9d536c54137cd7b425c4c1e3cbfd49ca9932f0ef330402b0f60a08073fd5a753"><param name="Name" value="SIK_TIMEOUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#ad2dc7c0a2b935879c34046a095c2006a"><param name="Name" value="sn"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944aedcfb91978540124a81e0302c58bb6d7"><param name="Name" value="SO_DESTIP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a3429f41e7099b4badca2630c7a5e4f1c"><param name="Name" value="SO_DESTPORT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944af21c9fec4a305d9504e0487f7ae7fc26"><param name="Name" value="SO_FLAG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a2bf80fd82c7e9231c427cd62a5d62cf0"><param name="Name" value="SO_KEEPALIVESEND"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944ae7f6aaf2aaef0519a813b3e26ef9c4fd"><param name="Name" value="SO_MSS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944af1a89a6cfe6fce7381f825553de1a905"><param name="Name" value="SO_PACKINFO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944ab30861739974726fb7a170bbac572c22"><param name="Name" value="SO_RECVBUF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944ac8e0d12b5a8ee43e5ebe37a39b31988a"><param name="Name" value="SO_REMAINSIZE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a1b0e150a176b12a227d6ab7c294fc05a"><param name="Name" value="SO_SENDBUF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a3f76c1b04cfc969826bed37a3c4cff06"><param name="Name" value="SO_STATUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944afef2289d3bfeecda602214576b0a42e3"><param name="Name" value="SO_TOS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gga2f86b7ad233f3b8d6ae0af3ee91e9944a69762968a8cae82544deffe1c3ac32cf"><param name="Name" value="SO_TTL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#a80bab3a987b736830d92983e0eae58fd"><param name="Name" value="SOCK_ANY_PORT_NUM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#af338f8defd644d00125c76201a38ce74"><param name="Name" value="SOCK_BUSY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a46c7c571ffee7a316b5ca7d696c6f68e"><param name="Name" value="SOCK_ERROR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a3692681cc0dc13c8e8df68868785f894"><param name="Name" value="SOCK_FATAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#afcca2a4e4c6a32d4f4e270de0c75c15d"><param name="Name" value="SOCK_IO_BLOCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a9a8a9af7811e4ca01799a4ab3dd54efc"><param name="Name" value="SOCK_IO_NONBLOCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a43761c46fde2eb998247950b5a735cbf"><param name="Name" value="SOCK_OK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#acfaf9e9da5a7bd9846052975871cb488"><param name="Name" value="SOCKERR_ARG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a1b458bac22c1408dd9f8bc7628cb6113"><param name="Name" value="SOCKERR_BUFFER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a6c4165b7c48a4e986b94e6ac4d5a88fe"><param name="Name" value="SOCKERR_DATALEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a6a6dd25815b319d08e09382ccb798795"><param name="Name" value="SOCKERR_IPINVALID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#af6282af0917498ec1560d934a73103b5"><param name="Name" value="SOCKERR_PORTZERO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ae202798313c7d68a56d5253f9e364ac7"><param name="Name" value="SOCKERR_SOCKCLOSED"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#abaab5024537ee2bcfe81a78e1d65d739"><param name="Name" value="SOCKERR_SOCKFLAG"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a4cd6d7ca2165fc20977a855ca8ef5efc"><param name="Name" value="SOCKERR_SOCKINIT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a6971dab6af9ec3f511a08f7944e04c85"><param name="Name" value="SOCKERR_SOCKMODE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#af6ef7a97c9bef95e6a0520a0f41b2923"><param name="Name" value="SOCKERR_SOCKNUM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a9445babb7a4c392d0fe0aa8cefb162af"><param name="Name" value="SOCKERR_SOCKOPT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#afa51a4ca35e3dde8100252b9bdb32de2"><param name="Name" value="SOCKERR_SOCKSTATUS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a8d293d23a00072c794547d2fccfa5a6e"><param name="Name" value="SOCKERR_TIMEOUT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html"><param name="Name" value="socket.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#a4de733d12d951cb93d5ec3adb9fe92a2"><param name="Name" value="CHECK_SOCKDATA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#a89d4949e11620ee89de6ea32497bc0a5"><param name="Name" value="CHECK_SOCKINIT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#aef140525633e96efc06dc2b03f71f5fa"><param name="Name" value="CHECK_SOCKMODE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#afe447840d18ed02ec5ca66e3e197b749"><param name="Name" value="CHECK_SOCKNUM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#gaf7c8a46c623edfab31d9e09788394b2f"><param name="Name" value="close"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#gaf7ab832f4201ef0f04eefcac063b998e"><param name="Name" value="connect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#gae2f94d7d4ce040f6bf68779e064d224e"><param name="Name" value="ctlsocket"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#ga0230efb936b222a0cbc7680e2c39c994"><param name="Name" value="disconnect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#ga631998ae17cbf099b0071f20c88ce5cf"><param name="Name" value="getsockopt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#ga58ae959798d5d874ac5ea796da90db8c"><param name="Name" value="listen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#ga4cfb66f7440a1dd9ac0ee0b933a38c59"><param name="Name" value="recv"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#gae580bd099f9bcbeca63a3145c0015e62"><param name="Name" value="recvfrom"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#gacd77c3cc60e87d09a5714932506d7c4b"><param name="Name" value="send"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#ga30fc77ba1005733b501994818bde12f8"><param name="Name" value="sendto"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#ga0111e4784e20d97dacd5aaf54cb48ef1"><param name="Name" value="setsockopt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#a80bab3a987b736830d92983e0eae58fd"><param name="Name" value="SOCK_ANY_PORT_NUM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8c.html#ga8cc0a2074b3aae98a132c1ae3c51188f"><param name="Name" value="socket"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html"><param name="Name" value="socket.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#gaf7c8a46c623edfab31d9e09788394b2f"><param name="Name" value="close"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#gaf7ab832f4201ef0f04eefcac063b998e"><param name="Name" value="connect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#gae2f94d7d4ce040f6bf68779e064d224e"><param name="Name" value="ctlsocket"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ga0230efb936b222a0cbc7680e2c39c994"><param name="Name" value="disconnect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ga631998ae17cbf099b0071f20c88ce5cf"><param name="Name" value="getsockopt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ga58ae959798d5d874ac5ea796da90db8c"><param name="Name" value="listen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ae06c5dba7f49f92040308a7219f0b891"><param name="Name" value="PACK_COMPLETED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a970d74802b0e51a57d2036ada9f956fd"><param name="Name" value="PACK_FIRST"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ac562b74bdfbd701536d2bd0be62f5280"><param name="Name" value="PACK_REMAINED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ga4cfb66f7440a1dd9ac0ee0b933a38c59"><param name="Name" value="recv"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#gae580bd099f9bcbeca63a3145c0015e62"><param name="Name" value="recvfrom"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#gacd77c3cc60e87d09a5714932506d7c4b"><param name="Name" value="send"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ga30fc77ba1005733b501994818bde12f8"><param name="Name" value="sendto"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ga0111e4784e20d97dacd5aaf54cb48ef1"><param name="Name" value="setsockopt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a49117ce7d884321865f4db6b139107c4"><param name="Name" value="SF_ETHER_OWN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#acd337681c4ef4fbf02a4ff4ca493f58a"><param name="Name" value="SF_IGMP_VER2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ae9bc25736822c8937e783714525b5dcd"><param name="Name" value="SF_IO_NONBLOCK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a62356ecd96a5545441134262d88c3cc2"><param name="Name" value="SF_MULTI_ENABLE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a73908595a4322a54ab879938f1f9e263"><param name="Name" value="SF_TCP_NODELAY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#af338f8defd644d00125c76201a38ce74"><param name="Name" value="SOCK_BUSY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a46c7c571ffee7a316b5ca7d696c6f68e"><param name="Name" value="SOCK_ERROR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a3692681cc0dc13c8e8df68868785f894"><param name="Name" value="SOCK_FATAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#afcca2a4e4c6a32d4f4e270de0c75c15d"><param name="Name" value="SOCK_IO_BLOCK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a9a8a9af7811e4ca01799a4ab3dd54efc"><param name="Name" value="SOCK_IO_NONBLOCK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a43761c46fde2eb998247950b5a735cbf"><param name="Name" value="SOCK_OK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#acfaf9e9da5a7bd9846052975871cb488"><param name="Name" value="SOCKERR_ARG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a1b458bac22c1408dd9f8bc7628cb6113"><param name="Name" value="SOCKERR_BUFFER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a6c4165b7c48a4e986b94e6ac4d5a88fe"><param name="Name" value="SOCKERR_DATALEN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a6a6dd25815b319d08e09382ccb798795"><param name="Name" value="SOCKERR_IPINVALID"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#af6282af0917498ec1560d934a73103b5"><param name="Name" value="SOCKERR_PORTZERO"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ae202798313c7d68a56d5253f9e364ac7"><param name="Name" value="SOCKERR_SOCKCLOSED"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#abaab5024537ee2bcfe81a78e1d65d739"><param name="Name" value="SOCKERR_SOCKFLAG"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a4cd6d7ca2165fc20977a855ca8ef5efc"><param name="Name" value="SOCKERR_SOCKINIT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a6971dab6af9ec3f511a08f7944e04c85"><param name="Name" value="SOCKERR_SOCKMODE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#af6ef7a97c9bef95e6a0520a0f41b2923"><param name="Name" value="SOCKERR_SOCKNUM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a9445babb7a4c392d0fe0aa8cefb162af"><param name="Name" value="SOCKERR_SOCKOPT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#afa51a4ca35e3dde8100252b9bdb32de2"><param name="Name" value="SOCKERR_SOCKSTATUS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a8d293d23a00072c794547d2fccfa5a6e"><param name="Name" value="SOCKERR_TIMEOUT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#aff55fe551a9992a54ec54621c524d0a4"><param name="Name" value="SOCKET"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#ga8cc0a2074b3aae98a132c1ae3c51188f"><param name="Name" value="socket"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a381abf0c05f627dfe0ed9876106cb34c"><param name="Name" value="SOCKFATAL_PACKLEN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga8cc0a2074b3aae98a132c1ae3c51188f"><param name="Name" value="socket"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#aff55fe551a9992a54ec54621c524d0a4"><param name="Name" value="SOCKET"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga8cc0a2074b3aae98a132c1ae3c51188f"><param name="Name" value="socket"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga8cc0a2074b3aae98a132c1ae3c51188f"><param name="Name" value="socket.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga8cc0a2074b3aae98a132c1ae3c51188f"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="socket_8h.html#a381abf0c05f627dfe0ed9876106cb34c"><param name="Name" value="SOCKFATAL_PACKLEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html#a6d2408f16a514c024e68f1faba61440b"><param name="Name" value="speed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="union_____w_i_z_c_h_i_p_1_1___i_f.html#a50d58c63f70671976672aa3051e36758"><param name="Name" value="SPI"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_timeout__t.html#a65f6be16231eee9449e9561601ad6f57"><param name="Name" value="time_100us"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="todo.html"><param name="Name" value="Todo List"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ga2ff9b34f5647319803e5d63f970728c9"><param name="Name" value="wiz_NetInfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ga2ff9b34f5647319803e5d63f970728c9"><param name="Name" value="DATA_TYPE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ga2ff9b34f5647319803e5d63f970728c9"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html"><param name="Name" value="wiz_NetInfo_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#a763202a23c996695abad319fc6e60dcf"><param name="Name" value="dhcp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#a51a0066964c8a7dcb02e8740858696bb"><param name="Name" value="dns"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#a6a78be2d765ba8e6f00ab9570ea6d702"><param name="Name" value="gw"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#acf3c4fdbc1f0701b795c9962c66f6979"><param name="Name" value="ip"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#ae9c5f0c32486ae54d9a149ad368e1b15"><param name="Name" value="mac"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_info__t.html#ad2dc7c0a2b935879c34046a095c2006a"><param name="Name" value="sn"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ga6a2040213546a67cffd2e9333f59cbc3"><param name="Name" value="wiz_NetTimeout"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ga6a2040213546a67cffd2e9333f59cbc3"><param name="Name" value="DATA_TYPE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#ga6a2040213546a67cffd2e9333f59cbc3"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_timeout__t.html"><param name="Name" value="wiz_NetTimeout_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_timeout__t.html#a5d33e21e06eae14bf79488d36097d073"><param name="Name" value="retry_cnt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___net_timeout__t.html#a65f6be16231eee9449e9561601ad6f57"><param name="Name" value="time_100us"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gac40ecf56c0038249b1431f63a925427b"><param name="Name" value="wiz_PhyConf"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gac40ecf56c0038249b1431f63a925427b"><param name="Name" value="DATA_TYPE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___d_a_t_a___t_y_p_e.html#gac40ecf56c0038249b1431f63a925427b"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html"><param name="Name" value="wiz_PhyConf_t"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html#a59b0be57ff79e69bd30dcbbfd9fceacf"><param name="Name" value="by"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html#a42f9d62936cfdf563c3d1c25a0c88cf2"><param name="Name" value="duplex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html#a08fbc557790c3a9ffd15e179d8c1884f"><param name="Name" value="mode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="structwiz___phy_conf__t.html#a6d2408f16a514c024e68f1faba61440b"><param name="Name" value="speed"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ad0efd19f6465f2071d41dbf2a9090133"><param name="Name" value="WIZCHIP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ad0efd19f6465f2071d41dbf2a9090133"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ad0efd19f6465f2071d41dbf2a9090133"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ae6c3296f0b6471c9fb26399bd4bfaf40"><param name="Name" value="wizchip_bus_readbyte"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a72e190dec22638a14f5a6df75335f5b7"><param name="Name" value="wizchip_bus_writebyte"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga41f91261077bc64e240d506923c29181"><param name="Name" value="wizchip_clrinterrupt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga41f91261077bc64e240d506923c29181"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga41f91261077bc64e240d506923c29181"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga41f91261077bc64e240d506923c29181"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html"><param name="Name" value="wizchip_conf.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga315235b3215e09b1230f4fae093a26b3"><param name="Name" value="ctlnetwork"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga0ff8fc15549599a1d08dc5ec378779d9"><param name="Name" value="ctlwizchip"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ae6ad00c6e026b8bf0d65d1db94f3a8bf"><param name="Name" value="reg_wizchip_bus_cbfunc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a658e320e9c986ecab81857a8716b8b87"><param name="Name" value="reg_wizchip_cris_cbfunc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a63208f3ad63e6290be0ed33705baa27e"><param name="Name" value="reg_wizchip_cs_cbfunc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ab8b1906597683424d5f599e6fd720386"><param name="Name" value="reg_wizchip_spi_cbfunc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ad0efd19f6465f2071d41dbf2a9090133"><param name="Name" value="WIZCHIP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ae6c3296f0b6471c9fb26399bd4bfaf40"><param name="Name" value="wizchip_bus_readbyte"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a72e190dec22638a14f5a6df75335f5b7"><param name="Name" value="wizchip_bus_writebyte"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga41f91261077bc64e240d506923c29181"><param name="Name" value="wizchip_clrinterrupt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a0670b3769d0093cff1d4539d0067c0f3"><param name="Name" value="wizchip_cris_enter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a558a7118b574e41fd9edb3de0bbbd4f0"><param name="Name" value="wizchip_cris_exit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#aeed928f8cddb547702ee3937fadcb727"><param name="Name" value="wizchip_cs_deselect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a244d1c94f43c6c4a6c0e5b17357e1f5c"><param name="Name" value="wizchip_cs_select"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#gae5858fe7ca3d498e9fec4c3457a02e2e"><param name="Name" value="wizchip_getinterrupt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga54ab95788a37781b24e2279022a8705b"><param name="Name" value="wizchip_getinterruptmask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga769cf8bbf0e35981777977e37443c766"><param name="Name" value="wizchip_getnetinfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga0313b6a7ced290f618912bf9de7791ab"><param name="Name" value="wizchip_getnetmode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga05f7ba1f50d0cb7a7db4207af9182644"><param name="Name" value="wizchip_gettimeout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga1bd1977c0db22c93e1841f8353dd919e"><param name="Name" value="wizchip_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#gafb30bdc1c5333b6bb67bdd20399b0f38"><param name="Name" value="wizchip_setinterruptmask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#gaf581fa9246e4a5621936c7b83d18a0fa"><param name="Name" value="wizchip_setnetinfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#gac4f457e87b5f9db2eccebb790a348e8c"><param name="Name" value="wizchip_setnetmode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga91ca4b3716c77ed5a6a32757c53f7a02"><param name="Name" value="wizchip_settimeout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#aa2207654c49a9f57887feaf9921a05a9"><param name="Name" value="wizchip_spi_readbyte"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a4e493cf7e22451f15725d15891ad9b23"><param name="Name" value="wizchip_spi_writebyte"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga4033269f88b0e202837c4c56a1d8d437"><param name="Name" value="wizchip_sw_reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga4745d0ce5551dd24df8550d4e0602aec"><param name="Name" value="wizphy_getphyconf"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a4236dcf85dce5f74aa27236cd82fa902"><param name="Name" value="wizphy_getphylink"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a337e51d795347c22d9b5a99a002c8c39"><param name="Name" value="wizphy_getphypmode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga6ab08d93c02389fe12590ba0c677a965"><param name="Name" value="wizphy_getphystat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a46a76bce886968fef0c9ff15f8a104d5"><param name="Name" value="wizphy_reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga60359c86bf85ccd5ca8f6e7cafc849dc"><param name="Name" value="wizphy_setphyconf"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#ga64a4fd3427b5c5f43a3f35fb433cb06c"><param name="Name" value="wizphy_setphypmode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#gac69f15a66bab10650b3834c758643066"><param name="Name" value="_WIZCHIP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a716142232d6577dcb49c4a3f27c89fdd"><param name="Name" value="_WIZCHIP_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a205bfecb2fd9a65b896384de0e957e4b"><param name="Name" value="_WIZCHIP_ID_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a96368b8e55bcca9d9b15b8b695331443"><param name="Name" value="_WIZCHIP_IO_BASE_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a564c20a8415e89b641b600bf4542e94c"><param name="Name" value="_WIZCHIP_IO_MODE_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ab278798369281104991526236f5e1a40"><param name="Name" value="_WIZCHIP_IO_MODE_BUS_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a640a909820498d82446aa1dc7f4307eb"><param name="Name" value="_WIZCHIP_IO_MODE_BUS_DIR_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a1acac79a10d2550d4387bd9506f8843f"><param name="Name" value="_WIZCHIP_IO_MODE_BUS_INDIR_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a92092941e58af1e46aeca604a1d52017"><param name="Name" value="_WIZCHIP_IO_MODE_NONE_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a6179151fb8739a740799328f4f2beaa8"><param name="Name" value="_WIZCHIP_IO_MODE_SPI_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a85505e996758563e203995e79522b035"><param name="Name" value="_WIZCHIP_IO_MODE_SPI_FDM_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a87fae122f24f057f386f1e12b9a91eab"><param name="Name" value="_WIZCHIP_IO_MODE_SPI_VDM_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a70a4c5d01d3afb9fab3b6070ac27c857"><param name="Name" value="_WIZCHIP_SOCK_NUM_"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga315235b3215e09b1230f4fae093a26b3"><param name="Name" value="ctlnetwork"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga0ff8fc15549599a1d08dc5ec378779d9"><param name="Name" value="ctlwizchip"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a041ee84835137a0e9b44195c59094058"><param name="Name" value="PHY_CONFBY_HW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a2c4dfff024962b4a520a0f64c5b482c7"><param name="Name" value="PHY_CONFBY_SW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a917f75644ef5f928c69d70f66883a4fa"><param name="Name" value="PHY_DUPLEX_FULL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a9e54992dd7df699ba0a6b8846c4bd503"><param name="Name" value="PHY_DUPLEX_HALF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a471064afdaa53206fb0ef209e1c8257e"><param name="Name" value="PHY_LINK_OFF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#acb165f18d53ffaa8c7691312e76e8d43"><param name="Name" value="PHY_LINK_ON"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a0fec3063a62bbbc9ed44004fe8d565ad"><param name="Name" value="PHY_MODE_AUTONEGO"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ada95bdaad545f87518e3d60760345eba"><param name="Name" value="PHY_MODE_MANUAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a6a72de7df3c5d48c93dbbac2248d566d"><param name="Name" value="PHY_POWER_DOWN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#aec45fdaf72e12f9b7958c77bb4ff4913"><param name="Name" value="PHY_POWER_NORM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ae18a71e8a9558b4cead60cee7a438cf1"><param name="Name" value="PHY_SPEED_10"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ad5fdd2d68e54573c921a7e790c541d70"><param name="Name" value="PHY_SPEED_100"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ae6ad00c6e026b8bf0d65d1db94f3a8bf"><param name="Name" value="reg_wizchip_bus_cbfunc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a658e320e9c986ecab81857a8716b8b87"><param name="Name" value="reg_wizchip_cris_cbfunc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a63208f3ad63e6290be0ed33705baa27e"><param name="Name" value="reg_wizchip_cs_cbfunc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ab8b1906597683424d5f599e6fd720386"><param name="Name" value="reg_wizchip_spi_cbfunc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga2ff9b34f5647319803e5d63f970728c9"><param name="Name" value="wiz_NetInfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga6a2040213546a67cffd2e9333f59cbc3"><param name="Name" value="wiz_NetTimeout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#gac40ecf56c0038249b1431f63a925427b"><param name="Name" value="wiz_PhyConf"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ad0efd19f6465f2071d41dbf2a9090133"><param name="Name" value="WIZCHIP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga41f91261077bc64e240d506923c29181"><param name="Name" value="wizchip_clrinterrupt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#gae5858fe7ca3d498e9fec4c3457a02e2e"><param name="Name" value="wizchip_getinterrupt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga54ab95788a37781b24e2279022a8705b"><param name="Name" value="wizchip_getinterruptmask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga769cf8bbf0e35981777977e37443c766"><param name="Name" value="wizchip_getnetinfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga0313b6a7ced290f618912bf9de7791ab"><param name="Name" value="wizchip_getnetmode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga05f7ba1f50d0cb7a7db4207af9182644"><param name="Name" value="wizchip_gettimeout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga1bd1977c0db22c93e1841f8353dd919e"><param name="Name" value="wizchip_init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#gafb30bdc1c5333b6bb67bdd20399b0f38"><param name="Name" value="wizchip_setinterruptmask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#gaf581fa9246e4a5621936c7b83d18a0fa"><param name="Name" value="wizchip_setnetinfo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#gac4f457e87b5f9db2eccebb790a348e8c"><param name="Name" value="wizchip_setnetmode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga91ca4b3716c77ed5a6a32757c53f7a02"><param name="Name" value="wizchip_settimeout"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga4033269f88b0e202837c4c56a1d8d437"><param name="Name" value="wizchip_sw_reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga4745d0ce5551dd24df8550d4e0602aec"><param name="Name" value="wizphy_getphyconf"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a4236dcf85dce5f74aa27236cd82fa902"><param name="Name" value="wizphy_getphylink"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a337e51d795347c22d9b5a99a002c8c39"><param name="Name" value="wizphy_getphypmode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga6ab08d93c02389fe12590ba0c677a965"><param name="Name" value="wizphy_getphystat"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a46a76bce886968fef0c9ff15f8a104d5"><param name="Name" value="wizphy_reset"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga60359c86bf85ccd5ca8f6e7cafc849dc"><param name="Name" value="wizphy_setphyconf"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#ga64a4fd3427b5c5f43a3f35fb433cb06c"><param name="Name" value="wizphy_setphypmode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a0670b3769d0093cff1d4539d0067c0f3"><param name="Name" value="wizchip_cris_enter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a558a7118b574e41fd9edb3de0bbbd4f0"><param name="Name" value="wizchip_cris_exit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#aeed928f8cddb547702ee3937fadcb727"><param name="Name" value="wizchip_cs_deselect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a244d1c94f43c6c4a6c0e5b17357e1f5c"><param name="Name" value="wizchip_cs_select"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gae5858fe7ca3d498e9fec4c3457a02e2e"><param name="Name" value="wizchip_getinterrupt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gae5858fe7ca3d498e9fec4c3457a02e2e"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gae5858fe7ca3d498e9fec4c3457a02e2e"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gae5858fe7ca3d498e9fec4c3457a02e2e"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga54ab95788a37781b24e2279022a8705b"><param name="Name" value="wizchip_getinterruptmask"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga54ab95788a37781b24e2279022a8705b"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga54ab95788a37781b24e2279022a8705b"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga54ab95788a37781b24e2279022a8705b"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga769cf8bbf0e35981777977e37443c766"><param name="Name" value="wizchip_getnetinfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga769cf8bbf0e35981777977e37443c766"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga769cf8bbf0e35981777977e37443c766"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga769cf8bbf0e35981777977e37443c766"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0313b6a7ced290f618912bf9de7791ab"><param name="Name" value="wizchip_getnetmode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0313b6a7ced290f618912bf9de7791ab"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0313b6a7ced290f618912bf9de7791ab"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga0313b6a7ced290f618912bf9de7791ab"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga05f7ba1f50d0cb7a7db4207af9182644"><param name="Name" value="wizchip_gettimeout"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga05f7ba1f50d0cb7a7db4207af9182644"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga05f7ba1f50d0cb7a7db4207af9182644"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga05f7ba1f50d0cb7a7db4207af9182644"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga1bd1977c0db22c93e1841f8353dd919e"><param name="Name" value="wizchip_init"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga1bd1977c0db22c93e1841f8353dd919e"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga1bd1977c0db22c93e1841f8353dd919e"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga1bd1977c0db22c93e1841f8353dd919e"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gafb30bdc1c5333b6bb67bdd20399b0f38"><param name="Name" value="wizchip_setinterruptmask"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gafb30bdc1c5333b6bb67bdd20399b0f38"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gafb30bdc1c5333b6bb67bdd20399b0f38"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gafb30bdc1c5333b6bb67bdd20399b0f38"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gaf581fa9246e4a5621936c7b83d18a0fa"><param name="Name" value="wizchip_setnetinfo"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gaf581fa9246e4a5621936c7b83d18a0fa"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gaf581fa9246e4a5621936c7b83d18a0fa"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gaf581fa9246e4a5621936c7b83d18a0fa"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gac4f457e87b5f9db2eccebb790a348e8c"><param name="Name" value="wizchip_setnetmode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gac4f457e87b5f9db2eccebb790a348e8c"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gac4f457e87b5f9db2eccebb790a348e8c"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#gac4f457e87b5f9db2eccebb790a348e8c"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga91ca4b3716c77ed5a6a32757c53f7a02"><param name="Name" value="wizchip_settimeout"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga91ca4b3716c77ed5a6a32757c53f7a02"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga91ca4b3716c77ed5a6a32757c53f7a02"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga91ca4b3716c77ed5a6a32757c53f7a02"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#aa2207654c49a9f57887feaf9921a05a9"><param name="Name" value="wizchip_spi_readbyte"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a4e493cf7e22451f15725d15891ad9b23"><param name="Name" value="wizchip_spi_writebyte"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4033269f88b0e202837c4c56a1d8d437"><param name="Name" value="wizchip_sw_reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4033269f88b0e202837c4c56a1d8d437"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4033269f88b0e202837c4c56a1d8d437"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4033269f88b0e202837c4c56a1d8d437"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html"><param name="Name" value="WIZnet_socket_APIs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7c8a46c623edfab31d9e09788394b2f"><param name="Name" value="close"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gaf7ab832f4201ef0f04eefcac063b998e"><param name="Name" value="connect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae2f94d7d4ce040f6bf68779e064d224e"><param name="Name" value="ctlsocket"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0230efb936b222a0cbc7680e2c39c994"><param name="Name" value="disconnect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga631998ae17cbf099b0071f20c88ce5cf"><param name="Name" value="getsockopt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga58ae959798d5d874ac5ea796da90db8c"><param name="Name" value="listen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga4cfb66f7440a1dd9ac0ee0b933a38c59"><param name="Name" value="recv"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gae580bd099f9bcbeca63a3145c0015e62"><param name="Name" value="recvfrom"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#gacd77c3cc60e87d09a5714932506d7c4b"><param name="Name" value="send"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga30fc77ba1005733b501994818bde12f8"><param name="Name" value="sendto"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga0111e4784e20d97dacd5aaf54cb48ef1"><param name="Name" value="setsockopt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___w_i_znet__socket___a_p_is.html#ga8cc0a2074b3aae98a132c1ae3c51188f"><param name="Name" value="socket"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4745d0ce5551dd24df8550d4e0602aec"><param name="Name" value="wizphy_getphyconf"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4745d0ce5551dd24df8550d4e0602aec"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4745d0ce5551dd24df8550d4e0602aec"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga4745d0ce5551dd24df8550d4e0602aec"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a4236dcf85dce5f74aa27236cd82fa902"><param name="Name" value="wizphy_getphylink"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a4236dcf85dce5f74aa27236cd82fa902"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a4236dcf85dce5f74aa27236cd82fa902"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a337e51d795347c22d9b5a99a002c8c39"><param name="Name" value="wizphy_getphypmode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a337e51d795347c22d9b5a99a002c8c39"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a337e51d795347c22d9b5a99a002c8c39"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga6ab08d93c02389fe12590ba0c677a965"><param name="Name" value="wizphy_getphystat"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga6ab08d93c02389fe12590ba0c677a965"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga6ab08d93c02389fe12590ba0c677a965"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga6ab08d93c02389fe12590ba0c677a965"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a46a76bce886968fef0c9ff15f8a104d5"><param name="Name" value="wizphy_reset"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8c.html#a46a76bce886968fef0c9ff15f8a104d5"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="wizchip__conf_8h.html#a46a76bce886968fef0c9ff15f8a104d5"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga60359c86bf85ccd5ca8f6e7cafc849dc"><param name="Name" value="wizphy_setphyconf"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga60359c86bf85ccd5ca8f6e7cafc849dc"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga60359c86bf85ccd5ca8f6e7cafc849dc"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga60359c86bf85ccd5ca8f6e7cafc849dc"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga64a4fd3427b5c5f43a3f35fb433cb06c"><param name="Name" value="wizphy_setphypmode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga64a4fd3427b5c5f43a3f35fb433cb06c"><param name="Name" value="extra_functions"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga64a4fd3427b5c5f43a3f35fb433cb06c"><param name="Name" value="wizchip_conf.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group__extra__functions.html#ga64a4fd3427b5c5f43a3f35fb433cb06c"><param name="Name" value="wizchip_conf.h"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>

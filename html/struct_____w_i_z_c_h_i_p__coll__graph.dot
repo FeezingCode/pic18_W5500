@@ -1,0 +1,12 @@
+digraph "__WIZCHIP"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="__WIZCHIP",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" IF" ,fontname="Helvetica"];
+  Node2 [label="__WIZCHIP::_IF",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$union_____w_i_z_c_h_i_p_1_1___i_f.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" CS" ,fontname="Helvetica"];
+  Node3 [label="__WIZCHIP::_CS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_____w_i_z_c_h_i_p_1_1___c_s.html"];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" CRIS" ,fontname="Helvetica"];
+  Node4 [label="__WIZCHIP::_CRIS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_____w_i_z_c_h_i_p_1_1___c_r_i_s.html"];
+}

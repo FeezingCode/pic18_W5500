@@ -1,0 +1,12 @@
+digraph "D:/UTILs/TMP/WORK/ioLibrary_BSD/wizchip_v0015_STM32F103X_LB_v101/Ethernet/W5500/w5500.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="D:/UTILs/TMP/WORK/ioLibrary\l_BSD/wizchip_v0015_STM32F103X\l_LB_v101/Ethernet/W5500/w5500.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="stdint.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Ethernet/wizchip_conf.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$wizchip__conf_8h.html",tooltip="WIZCHIP Config Header File. "];
+  Node3 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,12 @@
+digraph "D:/WORK/2.PROJECTs/IPv4/W5500/4.ioLibrary/ioLibrary_BSD_Ethernet_V102/Ethernet/wizchip_conf.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="D:/WORK/2.PROJECTs\l/IPv4/W5500/4.ioLibrary\l/ioLibrary_BSD_Ethernet\l_V102/Ethernet/wizchip_conf.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="D:/WORK/2.PROJECTs\l/IPv4/W5500/4.ioLibrary\l/ioLibrary_BSD_Ethernet\l_V102/Ethernet/socket.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$socket_8h.html",tooltip="SOCKET APIs Header file. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="D:/WORK/2.PROJECTs\l/IPv4/W5500/4.ioLibrary\l/ioLibrary_BSD_Ethernet\l_V102/Ethernet/socket.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$socket_8c.html",tooltip="SOCKET APIs Implements file. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="D:/WORK/2.PROJECTs\l/IPv4/W5500/4.ioLibrary\l/ioLibrary_BSD_Ethernet\l_V102/Ethernet/wizchip_conf.c",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$wizchip__conf_8c.html",tooltip="WIZCHIP Config Header File. "];
+}

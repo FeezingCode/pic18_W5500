@@ -1,0 +1,9 @@
+digraph "Basic I/O function"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir=LR;
+  Node0 [label="Basic I/O function",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 [label="WIZCHIP I/O functions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$group___w_i_z_c_h_i_p___i_o___functions.html",tooltip="This supports the basic I/O functions for WIZCHIP register. "];
+  Node1->Node0 [shape=plaintext, color="midnightblue", dir="back", style="solid"];
+}
