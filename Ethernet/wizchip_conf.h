@@ -51,6 +51,8 @@
 #define  _WIZCHIP_CONF_H_
 
 #include <stdint.h>
+#include <xc.h>
+#include <plib/spi.h>
 /**
  * @brief Select WIZCHIP.
  * @todo You should select one, \b 5100, \b 5200 ,\b 5500 or etc. \n\n
